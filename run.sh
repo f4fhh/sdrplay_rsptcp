@@ -1,0 +1,1 @@
+docker run -it --privileged --cap-add=SYS_NICE -p 1234:1234 -v /dev/bus/usb:/dev/bus/usb f4fhh/sdrplay_rsptcp
