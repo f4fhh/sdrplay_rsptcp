@@ -29,6 +29,7 @@ f4fhh/sdrplay_rsptcp
 ```
 ### HISTORY
  - Version 0.1.0: Initial build
+ - Version 0.2.0: Updated rsp_tcp from [Bas ON5HB](https://github.com/ON5HB)
 
 ### Credits
  - [SDRPlay](https://github.com/SDRplay) for the SDK of the RSP devices
