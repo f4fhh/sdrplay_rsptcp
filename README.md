@@ -1,3 +1,7 @@
+## From 2020-4-1 sdrplay_rsptcp development is discontinued.
+
+I would like to say big thanks to everyone who supported me during this project.
+
 # sdrplay_rsptcp
 Docker container for rsp_tcp, a linux I/Q stream server for SDRPlay RSP1, RSP1A, RSP2, RSPDuo (single tuner mode)
 
